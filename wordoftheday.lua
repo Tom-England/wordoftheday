@@ -1,0 +1,4 @@
+-- Word of the day widget for AwesomeWM
+-- By Tom England
+-- Provided as is
+-- For word list, try words on Arch or wordlist on debian/ubuntu
